@@ -82,3 +82,17 @@ bash train.sh
 ```
 The script will load the pre-trained model and perform evaluation on the test set, saving results and logs as configured.
 
+## Cite
+If you find this repository useful, please use the following BibTeX entry for citation.
+```
+@article{pan2025autoqc,
+  title={AutoQC-Bench: a diffusion model and benchmark for automatic quality control in high-throughput microscopy},
+  author={Pan, Zixuan and Sonneck, Justin and Nagel, Dennis and Hasenberg, Anja and Gunzer, Matthias and Shi, Yiyu and Chen, Jianxu},
+  journal={npj Imaging},
+  volume={3},
+  number={1},
+  pages={57},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+```
